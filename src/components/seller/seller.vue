@@ -1,7 +1,7 @@
 <template lang="html">
-<div class="top-comtainer">
-<p>头部</p>
-</div>
+  <div class="seller-contianer">
+    <p>ccc</p>
+  </div>
 </template>
 
 <script>

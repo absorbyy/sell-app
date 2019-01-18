@@ -1,7 +1,7 @@
 <template lang="html">
-<div class="top-comtainer">
-<p>头部</p>
-</div>
+  <div class="ratings-container">
+    <p>aaa</p>
+  </div>
 </template>
 
 <script>

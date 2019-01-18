@@ -1,7 +1,8 @@
 <template lang="html">
-<div class="top-comtainer">
-<p>头部</p>
-</div>
+  <div class="goods-container">
+      <p>AAA</p>
+      <p>sss</p>
+  </div>
 </template>
 
 <script>
